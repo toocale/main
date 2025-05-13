@@ -1,0 +1,4 @@
+langchain
+openai
+selenium
+undetected_chromedriver
